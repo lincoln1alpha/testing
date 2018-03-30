@@ -1,4 +1,4 @@
-1This is a test file.
+1 This is a test file.
 2 Now that it is on github. I added this without a branch.
-3
-4Lines 3 and 4 have no text.
+3 I think we should add a branch. Will be called new branch
+4 Lines 3 and 4 have no text.
