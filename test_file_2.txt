@@ -1,0 +1,7 @@
+1 This is a test file.
+2 Now that it is on github. I added this without a branch.
+3 I think we should add a branch. Will be called new branch
+4 Lines 3 and 4 have no text.
+ADD 5. Add this additional line before the 6th
+Want to add this line without a 5th.
+Uploading using github website
