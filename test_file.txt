@@ -1,4 +1,4 @@
 1This is a test file.
-2
+2 Now that it is on github. I added this.
 3
 4Lines 3 and 4 have no text.
